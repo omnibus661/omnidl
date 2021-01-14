@@ -15,7 +15,7 @@ import datetime
 GUILD_ID = 497540914869174283
 CHANNEL_ID = 799111266420785172
 
-TOKEN = "Nzk5MTA5ODc0Njg4MTk2NjM4.X_-zEA.FmRnwWVqT3kUVg9eMefNGFvk96c"
+TOKEN = ""
 client = discord.Client()
 
 async def idle():
